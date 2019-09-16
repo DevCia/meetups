@@ -11,4 +11,4 @@ Envie-nos sua talk qualquer assunto sobre tecnologia é bem vindo, não tenha ve
 https://forms.gle/xCpkNre7h8SQopxW6
 
 # Slack
-[Entra no Slack DevCia](https://devcia.slack.com/join/shared_invite/enQtNzIwNjYwNTk3NjE5LTE4Y2MyYzcyNmYzNTc3NjhlYzMzMDllNjI2MjkzNmMwMTRiZmM5NTVmNDNmYjZhYzQ2MzA0MGYzMmU0MGU3YjA)
+[Entra no Slack DevCia](https://join.slack.com/t/devcia/shared_invite/enQtNzU3MzM3NTI2NDA2LTEzMzFkYjFmMzhlYWFiYWVhZTFkM2U4MzY0ZTQ4Y2Y4MDg4YjAxOWIyOTE5MDliMDg5OTExYzgxZjIwZjI1NTk)
